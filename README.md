@@ -19,7 +19,7 @@
 
 ---
 
-### Featured Engineering
+### Engineering Projects
 
 **[ComPiso](https://github.com/SergioLopezz20/ComPiso-Demo) | Real-Time Matchmaking Platform**
 > Scalable transactional backend (NestJS/PostgreSQL) coupled with a mobile frontend structured via Clean Architecture and BLoC. Engineered a custom 15-dimensional Euclidean distance matching engine to calculate statistical user affinity, strictly governed by state machines and a distributed consensus system for real-time approvals.
